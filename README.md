@@ -14,3 +14,8 @@ git commit -m 'update: change readme text'
 git push origin main
 
 Add some more text
+fix2 changes
+Добавление всех изменений:
+git add -A
+git commit -m 'update: change readme'
+git push origin fix2
