@@ -12,5 +12,3 @@ git push -u origin main
 git add -A
 git commit -m 'update: change readme text'
 git push origin main
-
-it is branch fix3
